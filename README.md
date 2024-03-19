@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Umar and welcome to My GitHub Profile! 🚀</h1>
+<p align=”center”>
+
+<img width=”200" height=”200" src=https://github.com/umarhuss/umarhuss/blob/main/README.png alt=”my banner”>
+
+</p>
+
 <h3 align="center">I'm a passionate individual eager to break into the tech world and make a difference. With a solid foundation in Python, JavaScript, HTML and CSS I'm well-equipped to tackle exciting challenges and contribute to innovative projects. I thrive on learning new technologies and solving complex problems.I am currently enrolled in a Software Engineering bootcamp with coGrammar, where I am honing my skills and expanding my knowledge in various areas of software development.My goal is to leverage my skills and enthusiasm to collaborate with talented teams and create impactful solutions that push the boundaries of technology.</h3>
 
 - 🌱 I’m currently learning **Python, SQL and Django**

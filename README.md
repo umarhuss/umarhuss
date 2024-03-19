@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src='umarhuss/README.png' alt=”my banner”>
+<img width=”200" height=”200" src='README.png' alt=”my banner”>
 
 </p>
 

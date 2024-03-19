@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=https://github.com/umarhuss/umarhuss/blob/main/README.png alt=”my banner”>
+<img width=”200" height=”200" src=file:///Users/umar/Desktop/coGrammar/T05/README.png alt=”my banner”>
 
 </p>
 

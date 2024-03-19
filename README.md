@@ -1,4 +1,4 @@
-<img src="README.png" alt="Banner" width="1500" height="500">
+![My Banner](README.png)
 
 <h3 align="center">I'm a passionate individual eager to break into the tech world and make a difference. With a solid foundation in Python, JavaScript, HTML and CSS I'm well-equipped to tackle exciting challenges and contribute to innovative projects. I thrive on learning new technologies and solving complex problems.I am currently enrolled in a Software Engineering bootcamp with coGrammar, where I am honing my skills and expanding my knowledge in various areas of software development.My goal is to leverage my skills and enthusiasm to collaborate with talented teams and create impactful solutions that push the boundaries of technology.</h3>
 

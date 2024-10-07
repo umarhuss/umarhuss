@@ -2,7 +2,21 @@
 
 <h3 align="center">I'm a passionate individual eager to break into the tech world and make a difference. With a solid foundation in Python, JavaScript, HTML and CSS I'm well-equipped to tackle exciting challenges and contribute to innovative projects. I thrive on learning new technologies and solving complex problems.I am currently enrolled in a Software Engineering bootcamp with coGrammar, where I am honing my skills and expanding my knowledge in various areas of software development.My goal is to leverage my skills and enthusiasm to collaborate with talented teams and create impactful solutions that push the boundaries of technology.</h3>
 
-- 🌱 I’m currently learning **Python, SQL and Django**
+### About Me
+- **Graduate**: Completed a Software Engineering Bootcamp.
+- **Passion**: Enthusiastic about learning and problem-solving.
+
+### Recent Projects
+- **Portfolio Project**: Developed using **Node.js** and **React**.
+- **Django Sticky Notes Application**: Created a web application for managing notes.
+- **Rightmove Property Web Scraper**: Built a scraper to extract property listings from Rightmove.
+
+### Current Focus
+- **Learning**: Currently exploring **Solidity** for blockchain development.
+
+### Goals
+- **Collaboration**: Eager to contribute to innovative projects and work with talented teams in the tech industry.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

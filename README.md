@@ -1,7 +1,11 @@
 ![My Banner](README.png)
 ### About Me
-- **Graduate**: Completed a Software Engineering Bootcamp.
-- **Passion**: Enthusiastic about learning and problem-solving.
+
+- **Master’s Student** – Currently pursuing a Master’s degree in Artificial Intelligence and Computer Science.  
+- **Bootcamp Graduate** – Completed an intensive Software Engineering Bootcamp with hands-on experience in full-stack development.  
+- **Passionate Learner** – Driven by curiosity, problem-solving, and building impactful tech solutions.  
+- **Interests** – AI, machine learning, data-driven systems, and smart contract development.  
+- **Currently Learning** – Blockchain engineering, Solidity, and expanding my skills in software engineering tools and best practices.  
 
 ### Recent Projects
 - **Portfolio Project**: Developed using **Node.js** and **React**.

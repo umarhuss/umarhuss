@@ -1,4 +1,4 @@
-![My Banner](README.png)
+
 ### About Me
 
 - **Master’s Student** – Currently pursuing a Master’s degree in Artificial Intelligence and Computer Science.  
